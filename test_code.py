@@ -25,3 +25,5 @@ def generate_VI(image,band1,band2):
     imagePx1 = None # clean up
     imagePx2 = None
     return vi
+
+    lalala
